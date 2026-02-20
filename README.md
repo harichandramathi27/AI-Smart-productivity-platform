@@ -1,3 +1,4 @@
+Link : https://claude.ai/public/artifacts/3b762eee-cc77-471e-bde7-beab657bd5b0
 # ⚡ AI Smart Productivity Platform
 
 A full-stack AI-powered productivity application built with **React** + **FastAPI**, featuring intelligent task management, priority analysis, and smart daily planning — no database required.
